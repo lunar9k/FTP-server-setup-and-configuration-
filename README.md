@@ -13,7 +13,7 @@ setup a linux server
 
 Use `sudo apt install vsftpd` for installation vsftpd
 
-Use `sudo systemctl status vsftpd` for check status of ftp server is running or not 
+Use `sudo systemctl status vsftpd` for check status of ftp server is running or not. 
 
 ![Screenshot (40)](https://github.com/user-attachments/assets/873ed614-3a57-4ea0-9fb3-cc5074f01ccb)
 
